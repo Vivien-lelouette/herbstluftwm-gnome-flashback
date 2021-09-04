@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=herbstluftwm-gnome-flashback
+Comment=Herbstluft Window Manager
+Exec=herbstluftwm-gnome-flashback
+NoDisplay=true
+X-GNOME-WMName=herbstluftwm-gnome-flashback
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false

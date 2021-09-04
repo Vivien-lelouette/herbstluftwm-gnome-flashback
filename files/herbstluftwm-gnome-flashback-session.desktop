@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GNOME Flashback (HerbstluftWM)
+Comment=This session logs you into GNOME Flashback with HerbstluftWM
+Exec=herbstluftwm-gnome-flashback-session
+TryExec=herbstluftwm
+Type=Application
+DesktopNames=GNOME-Flashback;GNOME;
